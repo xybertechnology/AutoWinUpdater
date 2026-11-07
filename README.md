@@ -6,6 +6,8 @@ Initial setup is quite simple to execute.
 
 Step 1: Download AutoWinUpdater.zip from the `main` branch.
 
+Step 2: Extract the ZIP file
+
 Step 2: Run **AutoRun**.bat.
 
 Step 3: Enjoy automated updates EVERY Monday at 0800 sharp!
